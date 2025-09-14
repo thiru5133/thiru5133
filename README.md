@@ -14,6 +14,7 @@ Welcome to my GitHub profile.🚀 I'm a Full Stack Developer with experience in 
 - **Attendance Management**: An Angular project to streamline attendance tracking with real-time updates.
 
 🔧 **Tech Stack:**
+
 **Frontend**  
 - React  
 - Angular    
