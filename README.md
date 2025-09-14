@@ -1,19 +1,45 @@
 # Hi, I'm Thiru!
 
-Welcome to my GitHub profile.🚀 I'm a Full Stack Developer with experience in
+Welcome to my GitHub profile.🚀 I'm a Full Stack Developer with experience in building scalable web and mobile applications using modern technologies.
 
-- **React**: Building dynamic web applications.
-- **Angular**: Building dynamic web applications.
-- **Node.js**: Server-side programming.
-- **MySql**: Database Configure.
-- **MongoDB**: Database Configure.
-
+- **React & Angular**: Building interactive, responsive, and scalable front-end applications (Angular with Signals, RxJS, NgRx)
+- **Node.js (Express + Sequelize)**: API development with relational and NoSQL databases.
+- **MongoDB & MySQL**: Database design, configuration, and optimization.
+- **Authentication & Integrations**: JWT-based authentication, and real-time sync features
+  
 💡 **Notable Projects:**
+- **E-Signature Iframe (Angular + Node.js)**: A secure signing flows. Drag-and-drop widgets on PDFs, multi-device sync.
 - **Chatbot Application**: Developed a fully responsive chatbot in React with secure user authentication and session management.
 - **DataGenius**: A comprehensive tool for interacting with data across various formats, including PDFs and Excel files.
 - **Attendance Management**: An Angular project to streamline attendance tracking with real-time updates.
 
-🔧 **Tech Stack:** HTML, CSS, JavaScript, ReactJS, AngularJS, NodeJS, Express, MySQL, MongoDB.
+🔧 **Tech Stack:**
+**Frontend**  
+- React  
+- Angular    
+- RxJS  
+- NgRx
+- JavaScript
+- TypeScript  
+- PrimeNG  
+- Material UI  
+
+**Backend**  
+- Node.js  
+- Express  
+- Sequelize  
+
+**Databases**  
+- MongoDB  
+- MySQL  
+
+**Other Tools**  
+- Git  
+- Postman
+- Jira
+- Netlify
+- render
+- Miscrosoft IIS
 
 
 ## My GitHub Stats
@@ -22,5 +48,4 @@ Welcome to my GitHub profile.🚀 I'm a Full Stack Developer with experience in
 
 
 📫 **Let's Connect**:
-- [LinkedIn](https://www.linkedin.com/in/thiru5133/)
 - [Email](mailto:thiruma5133@gmail.com)
